@@ -45,9 +45,6 @@
                     <div class="row align-items-center ">
                         <div class="col-lg-6 pt16 pb16  ">
                             <p>
-                              My Biodata :
-                            </p>
-                            <p>
                                 My Biodata :<br>
                                 Nama saya adalah Ahmad Akbar yang merupakan mahasiswa dengan jurusan Teknik Elektro di Fakultas Teknik, Universitas Mulawarman, Samarinda, Kalimantan Timus. 
                                 Saya membuat Website ini untuk keperluan Tugas akhir mata kuliah Pemograman Website saya.
